@@ -1,2 +1,1 @@
-# holbertonschool-printf
-Holberton
+C - printf
